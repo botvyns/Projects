@@ -20,4 +20,4 @@ This project explores creation of the relational database on tow text samples (p
 
 This project explores calculation of various statistics on two samples, including checking the null hypothesis.
 
-![confidence intervals](https://github.com/botvyns/portfolio/blob/main/docs/images/fluctuation.png))
+![confidence intervals](https://github.com/botvyns/portfolio/blob/main/docs/images/fluctuation.png)
