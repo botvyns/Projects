@@ -6,7 +6,7 @@ This project explores sarcasm detection in the Ukrainian language using three tr
 ### *Note*: 
 Stay tuned for an upcoming update incorporating new real and synthetic data, utilizing a transformer model.
 
-![Steps Taken for Project Completion](https://github.com/botvyns/portfolio/blob/main/docs/images/steps.png))
+![Steps Taken for Project Completion](https://github.com/botvyns/portfolio/blob/main/docs/images/steps.png)
 
 # Project 2: 
 ## [A relational database](https://github.com/botvyns/text_database) that holds data on a particular text
