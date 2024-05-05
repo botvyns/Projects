@@ -4,7 +4,7 @@
 This project explores sarcasm detection in the Ukrainian language using three traditional ML classifiers: Random Forest, Multinomial Naïve Bayes, and Decision Tree. 
 
 ### *Note*: 
-Stay tuned for an upcoming update incorporating new real and synthetic data, utilizing a transformer model.
+There is an update on fine-tuning RoBERTa for sarcasm detection in Ukrainian, generation of synthetic sarcastic dataset with OpenAI and annotation of real sarcastic data with OpenAI. See [this repo](https://github.com/botvyns/sarcasm_detection_ukr). More updates soon.
 
 ![Steps Taken for Project Completion](/images/steps.png)
 
@@ -21,3 +21,11 @@ This project explores creation of the relational database on tow text samples (p
 This project explores calculation of various statistics on two samples, including checking the null hypothesis.
 
 ![confidence intervals](/images/fluctuation.png)
+
+# Project 4:
+## [A conversational assistant powered by LangChain, OpenAI, and Streamlit](https://github.com/botvyns/assistant).
+
+This assitant uses RAG. As a context it has a web-page that tells a story of media that focuses on underground Ukrainian music. 
+The project needs improvments, in terms of, for exampe, hallucinations.
+
+![example interface](/images/example.ipg)
