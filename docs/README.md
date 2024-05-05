@@ -11,7 +11,7 @@ There is an update on fine-tuning RoBERTa for sarcasm detection in Ukrainian, ge
 # Project 2: 
 ## [A relational database](https://github.com/botvyns/text_database) that holds data on a particular text
 
-This project explores creation of the relational database on tow text samples (prose, poetry) with a command line interface for quering the database.
+This project explores creation of the relational database on two text samples (prose, poetry) with a command line interface for quering the database.
 
 ![database model](/images/data_model.png)
 
@@ -25,7 +25,7 @@ This project explores calculation of various statistics on two samples, includin
 # Project 4:
 ## [A conversational assistant powered by LangChain, OpenAI, and Streamlit](https://github.com/botvyns/assistant).
 
-This assitant uses RAG. As a context it has a web-page that tells a story of media that focuses on underground Ukrainian music. 
-The project needs improvments, in terms of, for exampe, hallucinations.
+This assistant uses RAG. As a context, it has a web-page that tells a story of media that focuses on underground Ukrainian music. 
+The project needs improvements, in terms of, for example, hallucinations.
 
 ![example interface](/images/example.jpg)
