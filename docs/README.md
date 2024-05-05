@@ -28,4 +28,4 @@ This project explores calculation of various statistics on two samples, includin
 This assitant uses RAG. As a context it has a web-page that tells a story of media that focuses on underground Ukrainian music. 
 The project needs improvments, in terms of, for exampe, hallucinations.
 
-![example interface](/images/example.ipg)
+![example interface](/images/example.jpg)
