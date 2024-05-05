@@ -29,3 +29,8 @@ This assistant uses RAG. As a context, it has a web-page that tells a story of m
 The project needs improvements, in terms of, for example, hallucinations.
 
 ![example interface](/images/example.jpg)
+
+# Project 5:
+## A chatbot that provides support about a particuar company. Involves recognition og user intent and answers to them, handling of some fallbacks, flow design. Rule based with automatic intent recognition and some entities.
+
+![botpress_interface](images/botpress.jpg)
