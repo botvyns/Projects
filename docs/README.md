@@ -31,6 +31,8 @@ The project needs improvements, in terms of, for example, hallucinations.
 ![example interface](/images/example.jpg)
 
 # Project 5:
-## A chatbot that provides support about a particuar company. Involves recognition og user intent and answers to them, handling of some fallbacks, flow design. Rule based with automatic intent recognition and some entities.
+## A chatbot that provides support about a particuar company. 
+
+It involves recognition of user intent and answers to them, handling of some fallbacks, flow design. This is rule based with automatic intent and some entities recognition.
 
 ![botpress_interface](images/botpress.jpg)
