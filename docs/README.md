@@ -3,10 +3,12 @@
 
 This project explores sarcasm detection in the Ukrainian language using three traditional ML classifiers: Random Forest, Multinomial Naïve Bayes, and Decision Tree. 
 
-### *Note*: 
-There is an update on fine-tuning RoBERTa for sarcasm detection in Ukrainian, generation of synthetic sarcastic dataset with OpenAI and annotation of real sarcastic data with OpenAI. See [this repo]([https://github.com/botvyns/sarcasm_detection_ukr](https://github.com/botvyns/bachelor_project)).
-
 ![Steps Taken for Project Completion](/images/steps.png)
+
+### *Note*: 
+There is an update on fine-tuning RoBERTa for sarcasm detection in Ukrainian, generation of synthetic sarcastic dataset with OpenAI and annotation of real sarcastic data with OpenAI. See [this repo]([https://github.com/botvyns/sarcasm_detection_ukr](https://github.com/botvyns/bachelor_project).
+
+![Tokenization Process in transformer-based models](/images/tokenization.drawio..png)
 
 # Project 2: 
 ## [A relational database](https://github.com/botvyns/text_database) that holds data on a particular text
