@@ -15,7 +15,7 @@ There is an update on fine-tuning RoBERTa for sarcasm detection in Ukrainian, ge
 
 This project involves evaluating the performance of Mistral and Llama in extracting email signatures and structuring them into JSON format.
 
-![An interface](/llm_signature.png)
+![An interface](/images/llm_signature.png)
 
 # Project 3:
 ## [Summarization of video content with LLM](https://github.com/botvyns/learning_how_to_learn)
