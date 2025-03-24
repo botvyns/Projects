@@ -11,16 +11,16 @@ There is an update on fine-tuning RoBERTa for sarcasm detection in Ukrainian, ge
 ![Tokenization Process in transformer-based models](/images/tokenization.drawio.png)
 
 # Project 2:
-## [A signature extraction from email with LLM help](https://github.com/botvyns/llm_signature)
+## [A signature extraction from an email with LLM help](https://github.com/botvyns/llm_signature)
 
-This project involves evaluating the performance of Mistral and Llama in extracting email signatures and structuring them into JSON format.
+This project involves evaluating the performance of Mistral and Llama in extracting email signatures and structuring them into a JSON format.
 
 ![An interface](/images/llm_signature.png)
 
 # Project 3:
 ## [Summarization of video content with LLM](https://github.com/botvyns/learning_how_to_learn)
 
-Applying concepts from Learning How to Learn by Barbara Oakley with LLM assistance for educational video summarization.
+Applying concepts from Learning How to Learn by Barbara Oakley with LLM assistance for an educational video summarization.
 
 # Project 4:
 ## [A conversational assistant powered by LangChain, OpenAI, and Streamlit](https://github.com/botvyns/assistant).
