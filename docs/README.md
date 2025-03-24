@@ -10,19 +10,17 @@ There is an update on fine-tuning RoBERTa for sarcasm detection in Ukrainian, ge
 
 ![Tokenization Process in transformer-based models](/images/tokenization.drawio.png)
 
-# Project 2: 
-## [A relational database](https://github.com/botvyns/text_database) that holds data on a particular text
+# Project 2:
+## [A signature extraction from an email with LLM help](https://github.com/botvyns/llm_signature)
 
-This project explores creation of the relational database on two text samples (prose, poetry) with a command line interface for quering the database.
+This project involves evaluating the performance of Mistral and Llama in extracting email signatures and structuring them into a JSON format.
 
-![database model](/images/data_model.png)
+![An interface](/images/llm_signature.png)
 
-# Project 3: 
-## [Statistics](https://github.com/botvyns/statistics_on_text) on text.
+# Project 3:
+## [Summarization of video content with LLM](https://github.com/botvyns/learning_how_to_learn)
 
-This project explores calculation of various statistics on two samples, including checking the null hypothesis.
-
-![confidence intervals](/images/fluctuation.png)
+Applying concepts from Learning How to Learn by Barbara Oakley with LLM assistance for an educational video summarization.
 
 # Project 4:
 ## [A conversational assistant powered by LangChain, OpenAI, and Streamlit](https://github.com/botvyns/assistant).
